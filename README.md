@@ -1,8 +1,10 @@
 # HypeToken
 **Erc-20 token Creating Çalışması**
 
-*Oluşturan Ahmet Gürbüz*
 
+<table> <tr> <td align="center"><a href="https://github.com/ahmtgrbz"><img src="https://avatars0.githubusercontent.com/u/44843548?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Ahmet GÜRBÜZ</b>
+</tr>
+</table>
 
 ## **Çalışma Neden Ve Nasıl Yapıldı ?**
 
@@ -56,7 +58,7 @@ Ayrıca bu kütüphanede standart olarak Safemath.sol dosyası bulunmaktadır. B
 
 
 
-**Bu token Neden Oluşturuldu ?** 
+## **Bu token Neden Oluşturuldu ?** 
 
 Bu tokenın amacı genel olarak benim solidity dilini kavramam fonksiyonların yazıldığında nasıl bir mantıkla hangi kontrollerden sırasıyle geçtiğini öğrenmem için yazıldı. Ayrıca kütüphanlerin içeriğini incelememde ciddi anlamda fonksiyon yazmada bana fikir verdi(openzepplin).  Ancak daha spesifik bir amaca hizmet etmesi gerekiyorsa otomatik ödemeler ve aboneliklerde kullanılabilecek bir ödeme aracı olarak yaratılmış olabilir.
 
