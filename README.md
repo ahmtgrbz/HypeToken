@@ -1,6 +1,7 @@
 # HypeToken
-**Erc-20 token Creating Çalışması**
+*Kontrat adresi: 0x6C75EFb51bE47fAF60d3b9681DfBabcD48AA58Bc*
 
+**Erc-20 token Creating Çalışması**
 
 <table> <tr> <td align="center"><a href="https://github.com/ahmtgrbz"><img src="https://avatars0.githubusercontent.com/u/44843548?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Ahmet GÜRBÜZ</b>
 </tr>
