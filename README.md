@@ -21,17 +21,17 @@ Genel olarak baktığımda bir çok sorun ve hala eksiklik hissediyorum. Şöyle
 ## **ERC20 Standartları**
 **Genel Anlamda erc20 standartlarını bir kontrat uyması gerekirse altı zorunlu fonksiyonu içermesi gerekir. Bunlar;**
 
-1-totalSupply,
+*1-* totalSupply,
 
-2-balanceOf,
+*2-* balanceOf,
 
-3-transfer,
+*3-* transfer,
 
-4-transferFrom,
+*4-* transferFrom,
 
-5-approve,
+*5-* approve,
 
-6-allowance
+*6-* allowance
 
 fonksiyonlarıdır.
 
